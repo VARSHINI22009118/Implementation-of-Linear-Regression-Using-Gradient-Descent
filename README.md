@@ -60,7 +60,8 @@ print(f"Predicted value:{pre}")
 
 ![ml2](https://github.com/anu-varshini11/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138969827/475640c7-9efb-4ca2-882a-aa52906026bd)
 ![ml3](https://github.com/anu-varshini11/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138969827/c81d7ffe-da92-491d-912d-9768469b2f81)
-![ml4](https://github.com/anu-varshini11/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138969827/08015703-2b5b-423a-87c5-829f74f66c95)
+![Screenshot 2024-04-27 114238](https://github.com/VARSHINI22009118/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119401150/30676fc4-7c69-4dd7-b9c1-a7ecbf69769b)
+
 
 
 
